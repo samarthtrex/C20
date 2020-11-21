@@ -28,7 +28,7 @@ function setup() {
       car.shapeColor=color(230,230,0);
     }
 
-    if(deforation<100)
+    if(deformation<100)
     {
       car .shapeColor=color(0,255,0);
     }
